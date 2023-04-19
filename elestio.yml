@@ -14,6 +14,8 @@ environments:
     value: "random_password"
   - key: "ADMIN_EMAIL"
     value: "[EMAIL]"
+  - key: "PIPELINE_NAME"
+    value: "[PIPELINE_NAME]"
 
 config:
   runTime: "dockerCompose"
