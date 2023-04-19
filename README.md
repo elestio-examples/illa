@@ -13,5 +13,5 @@ Deploy Illa server with CI/CD on Elestio
 You can open Illa web UI here:
 
     https://[CI_CD_DOMAIN]/
-    Login: [ADMIN_EMAIL] (set in env var)
-    password: [ADMIN_PASSWORD] (set in env var)
+    Login: [ADMIN_EMAIL]
+    password: [ADMIN_PASSWORD]
