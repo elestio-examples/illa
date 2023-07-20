@@ -8,6 +8,6 @@ services:
     - GIN_MODE=release
     - PGDATA=/var/lib/postgresql/data/pgdata
     ports:
-      - "172.17.0.1:3050:80"
+      - "172.17.0.1:3050:2022"
     volumes:
       - ./data:/var/lib/postgresql/data 
