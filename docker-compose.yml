@@ -2,6 +2,7 @@ version: "3.9"
 
 services:
   illa-builder:
+    container_name: ${CONTAINER_NAME}
     restart: always
     image: "illasoft/illa-builder:${SOFTWARE_VERSION_TAG}"
     environment:
