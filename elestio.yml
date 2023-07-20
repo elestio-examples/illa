@@ -14,7 +14,7 @@ environments:
     value: "random_password"
   - key: "ADMIN_EMAIL"
     value: "[EMAIL]"
-  - key: "PIPELINE_NAME"
+  - key: "CONTAINER_NAME"
     value: "[PIPELINE_NAME]"
 
 config:
